@@ -1,5 +1,9 @@
 <?php include 'header.php'; ?>
+<!--logo-->
 <img src="image/logo.png" class="img-thumbnail" alt="...">
+<!--fin logo-->
+
+<!--nav bar-->
 <ul class="nav justify-content-center">
 <button type="button" class="btn btn-primary btn-lg">Get Started</button>
   <li class="nav-item">
@@ -15,6 +19,9 @@
     <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">Blog</a>
   </li>
 </ul>
+<!--fin nav bar-->
+
+<!--page acc-->
 <div class="container">
 <div class="row">
     <div class="col-sm">
@@ -28,11 +35,17 @@
     </div>
   </div>
 </div>
+<!--fin page acc-->
+
+<!--logo-->
 <div class="container">
  <div class="row">
   <img src="image/logo ligne.png" class="img-fluid" alt="...">
  </div>
 </div>
+<!--fin logo-->
+
+<!--explication-->
  <div class="container">
   <div class="row align-items-start">
     <div class="col">
@@ -53,6 +66,9 @@
     </div>
     </div>
   </div>
+<!-- fin explication-->
+
+<!--pub-->
   <div class="container">
   <div class="row align-items-start">
     <div class="col-sm 4">
@@ -72,6 +88,9 @@
     </div>
     </div>
   </div>
+<!-- fin pub-->
+
+<!--choix-->
   <div class="container">
   <div class="row align-items-start">
     <div class="col">
@@ -82,6 +101,10 @@
   <button class="btn btn-primary me-md-2" type="button">Yearly</button>
   <button class="btn btn-primary" type="button">Monthly</button>
 </div>
+<!-- fin choix-->
+
+
+<!-- carte mois-->
     </div>
     <div class="card-group">
   <div class="card">
@@ -115,5 +138,6 @@ Premium Support</p>
     </div>
   </div>
 </div>
+<!-- fin carte mois-->
 
 <?php include 'footer.php'; ?>
