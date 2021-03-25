@@ -1,9 +1,64 @@
-#logo {
-   text-align: center; 
-}
-
+*{
+    border-style: dotted;
+    border-color: crimson;
+    border-width: 1px;
+    }
 .container{
     display:flex;
     flex-direction: row;
     background-color:white
+}
+.nav-item{
+    color: black;
+}
+.img-logo{
+    width: 17%;
+    margin-left:-300px;
+    margin-right: 100px;
+}
+.btn1{
+    color: white ;
+    background-color: rgb(255, 113, 67);
+    margin-left: 100px;
+    position: absolute;
+    width: 211px;
+    height: 60px;
+    left: 1043px;
+    top: 30px;
+}
+.btn1:hover{
+    color: white;
+    background-color:rgba(159, 57, 25, 1);
+}
+
+.btn2{
+    color: white;
+    background-color: rgba(84, 84, 212, 1);
+    position: static;
+    left: 0%;
+    right: 54.33%;
+    top: 72.51%;
+    bottom: 14.5%;
+
+}
+
+.btn2:hover{
+    color:rgba(84, 84, 212, 1);
+    background-color: rgba(234, 233, 242, 1);
+}
+
+.carte1{
+    background-color:rgba(248, 248, 248, 1);
+    color: black;
+}
+.carte2{
+    background-color: rgba(255, 113, 67, 1);
+    color:white;
+}
+.carte3{
+    background-color:rgba(248, 248, 248, 1);
+    color: black;
+}
+.btn{
+    color:rgba(84, 84, 212, 1); ;
 }
