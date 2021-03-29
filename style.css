@@ -1,10 +1,10 @@
 *{
     border-style: dotted;
     border-color: crimson;
-    border-width: 1px;
+    border-width: 0px;
     }
 .container{
-    display:flex;
+
     flex-direction: row;
     background-color:white
 }
@@ -20,11 +20,7 @@
     color: white ;
     background-color: rgb(255, 113, 67);
     margin-left: 100px;
-    position: absolute;
     width: 211px;
-    height: 60px;
-    left: 1043px;
-    top: 30px;
 }
 .btn1:hover{
     color: white;
@@ -47,18 +43,95 @@
     background-color: rgba(234, 233, 242, 1);
 }
 
-.carte1{
+.card1{
     background-color:rgba(248, 248, 248, 1);
     color: black;
+    width: 400px;
 }
-.carte2{
+.card2{
     background-color: rgba(255, 113, 67, 1);
     color:white;
+    width: 500px;
 }
-.carte3{
+.card3{
     background-color:rgba(248, 248, 248, 1);
     color: black;
+    width: 400px;
 }
 .btn{
-    color:rgba(84, 84, 212, 1); ;
+    color: rgba(84, 84, 212, 1) ;
+    background-color: rgba(247, 247, 251, 1);
+}
+.btn:hover{
+    color:rgba(247, 247, 251, 1)  ;
+    background-color:rgba(84, 84, 212, 1);
+}
+.logo-ligne{
+   width: 1500px;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.imgcarte{
+    width: 200px;
+}
+.imgcalculette{
+    width: 200px;
+}
+.imgphoto{
+    width: 200px;
+}
+.btn6{
+    background-color: rgba(159, 57, 25, 1);
+}
+.btn7{
+    background-color:rgba(255, 255, 255, 1);
+    color: rgba(84, 84, 212, 1);
+    align-items: center;
+    justify-content: center;
+}
+.btn5{
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(84, 84, 212, 1);
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.container2{
+    align-items: center;
+    
+}
+.text3{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text4{
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card1{
+    text-align: center;
+}
+.card2{
+    text-align: center;
+}
+.card3{
+    text-align: center;
+}
+.container3{
+    text-align: center;
+}
+.card-title1{
+    opacity: 0.6;
+}
+.card-text1{
+    opacity: 0.6;
+}
+.lead1{
+    color:rgba(84, 84, 212, 1) ;
 }
