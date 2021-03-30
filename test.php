@@ -1,6 +1,5 @@
 <?php include 'header.php'; ?>
 
-<!--nav bar-->
 <main class="container-acc">
 
 <nav class="navbar navbar-expand-lg navbar-light">
@@ -49,10 +48,7 @@
     <img src="image/skater-1.png">
 </div>
 
-
 </div>
-<!--fin page acc-->
-
 <!--logo-->
 <div class="container">
      <div class="row">
@@ -65,40 +61,48 @@
 </div>
 </div>
 <!--fin logo-->
+<div class="row pt-5">
 
-<!--explication-->
- <div class="container7">
-     <div class="row align-items-start">
-         <div class="col">
-         <img src="image/intello-1.png">
-         </div>
-         <div class="col-sm d-flex align-items-center justify-content-center text3">
-         <div class="row">
-                 <div class="col-12"><h1><b>Subscription index</b></h1></div>
-                 <div class="col-12"><p class="lead"> A daily dataset to keep you up to date on subscription market trends and what's happening in your vertical.</p></div>
-                 <div class="col-12"><p class="lead1"><b>Learn more</b></p></div>
-         </div>
+<div class="col-md-5 col-sm-12 order-md-1 order-sm-2">
+    <h1 class="logoipsum-title">
+    Subscription index
+    </h1>
+    <p class="text-black-50 fs-4">
+    A daily dataset to keep you up to date on subscription market trends and what's happening in your vertical.
+    </p>
+    <div class="col-12"><p class="lead1"><b>Learn more</b></p></div>
+    
+   
 </div>
-</div>
-</div>
- <div class="container8">
- <div class="row align-items-start">
-         <div class="col-sm d-flex align-items-center justify-content-center text3">
-         <div class="row">
-                 <div class="col-12"><h1><b>In-depth metrics</b></h1></div>
-                 <div class="col-12"><p class="lead">Accurate, real-time reporting at your fingertips. Getting data has never been easier.</p></div>
-                 <div class="col-12"><p class="lead1"><b>Learn more</b></p></div>
-         </div>
-         <div class="col">
-         <img src="image/intello-2.png">
-         </div>
-</div>
-</div>
+<div class="col-md-1 col-sm-0"></div>
+<div class="col-md-6 col-sm-12 order-md-2 order-sm-1">
+    <img src="image/intello-1.png">
 </div>
 
-<!-- fin explication-->
+</div>
 
-<!--pub-->
+</div>
+<div class="row pt-5">
+
+<div class="col-md-5 col-sm-12 order-md-1 order-sm-2">
+    <h1 class="logoipsum-title">
+    In-depth metrics
+    </h1>
+    <p class="text-black-50 fs-4">
+    Accurate, real-time reporting at your fingertips. Getting data has never been easier.
+    </p>
+    <div class="col-12"><p class="lead1"><b>Learn more</b></p></div>
+    
+   
+</div>
+<div class="col-md-1 col-sm-0"></div>
+<div class="col-md-6 col-sm-12 order-md-2 order-sm-1">
+    <img src="image/intello-2.png">
+</div>
+
+</div>
+
+</div>
 <div class="container3">
      <div class="row align-items-start">
           <div class="col">
@@ -119,69 +123,8 @@
       </div>
  </div>
 </div>
-<!-- fin pub-->
-
-<!--choix-->
-<div class="container4">
-     <div class="row align-items-start">
-         <div class="col">
-          <h1><b>Get the right plan</b></h1>
-          <h1><b>for future product.</b></h1>
-         </div>
-     <div class="col">
-         <div class="d-grid gap-2 d-md-flex justify-content-md-end">
-         <button class="btn btn-primary  btn9" type="button"><b>Yearly</b></button>
-         <button class="btn btn-primary btn8" type="button"><b>Monthly</b></button>
-         </div>
-     </div>
-     </div>
-  </div>
-<!-- fin choix-->
 
 
-<!-- carte mois-->
-<div class="container mt-5">
 
- <div class="row">
- <div class="col-md-4 col-sm-12">
-    <div class="card1">
-         <div class="card-body">
-          <h5 class="card-title1">Starter</h5>
-          <h2 class="h2">Free</h2>
-          <p class="card-text1">1 Website</p>
-          <p class="card-text1">5 GB Hosting</p>
-          <p class="card-text1">Limited Suppor</p>
-          <button type="button" class="btn5 btn-primary border-0 btn-sm"><b>Get Started</b></button>
-         </div>
-     </div>
- </div>
- <div class="col-md-4 col-sm-12">
-    <div class="card2">
-         <div class="card-body">
-         <h5 class="card-title">Premium</h5>
-         <h2 class="h2">$29/month</h2>
-         <p class="card-text">10 Website</p>
-         <p class="card-text">15 GB Hosting</p>
-         <p class="card-text">Premium Support</p>
-         <button type="button" class="btn6 btn-primary border-0 btn-sm"><b>Get Started</b></button>
-         </div>
-     </div>
- </div>
- <div class="col-md-4 col-sm-12">
-    <div class="card3">
-         <div class="card-body">
-         <h5 class="card-title1">Enterprise</h5>
-         <h2 class="h2">$49/month</h2>
-         <p class="card-text1">Unlimited Website</p>
-         <p class="card-text1">50 GB Hosting</p>
-         <p class="card-text1">Premium Suppors</p>
-         <button type="button" class="btn7 btn-primary border-0 btn-sm"><b>Get Started</b></button>
-         </div>
-     </div>
- </div>
-</div>
-</div>
-</div>
-<!-- fin carte mois-->
-
+</main>
 <?php include 'footer.php'; ?>
