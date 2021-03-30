@@ -20,11 +20,13 @@
 <!--fin nav bar-->
 
 <!--page acc-->
-<div class="container">
+<div class="container10">
      <div class="row">
          <div class="col-sm d-flex align-items-center justify-content-center">
              <div class="row">
-                 <div class="col-12"><h1><b>Grow your subscription business</b></h1></div>
+                 <div class="col-12"><h1><b>Grow your</b></h1></div>
+                 <div class="col-12"><h1><b>subscription</b></h1></div>
+                 <div class="col-12"><h1><b>business</b></h1></div>
                  <div class="col-12"><p class="lead"> Outcome-centered products that reduce churn, optimize pricing, and grow your subscription business end-to-end.</p></div>
                  <div class="col-12"><h2><button type="button" class="btn2 btn-primary border-white btn-lg"><b>Get Started</b></button></h2></div>
              </div>
@@ -52,7 +54,7 @@
 <!--fin logo-->
 
 <!--explication-->
- <div class="container">
+ <div class="container7">
      <div class="row align-items-start">
          <div class="col">
          <img src="image/intello-1.png">
@@ -66,7 +68,7 @@
 </div>
 </div>
 </div>
- <div class="container">
+ <div class="container8">
  <div class="row align-items-start">
          <div class="col-sm d-flex align-items-center justify-content-center text3">
          <div class="row">
@@ -110,7 +112,8 @@
 <div class="container4">
      <div class="row align-items-start">
          <div class="col">
-          <h1><b>Get the right plan for future product.</b></h1>
+          <h1><b>Get the right plan</b></h1>
+          <h1><b>for future product.</b></h1>
          </div>
      <div class="col">
          <div class="d-grid gap-2 d-md-flex justify-content-md-end">
@@ -124,7 +127,7 @@
 
 
 <!-- carte mois-->
-<div class= container>
+<div class= container9>
  <div class="cardgroup1">
      <div class="card1">
          <div class="card-body">

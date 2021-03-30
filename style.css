@@ -3,6 +3,10 @@
     border-color: crimson;
     border-width: 0px;
     }
+@font-face {
+        font-family: 'DMSans-bold';
+        src: url('DMSans-Bold.ttf');
+        }
 .container{
 
     flex-direction: row;
@@ -116,12 +120,17 @@
 }
 .card1{
     text-align: center;
+    border-radius: 10px;
+    margin-right: 50px;
 }
 .card2{
     text-align: center;
+    border-radius: 10px; 
 }
 .card3{
     text-align: center;
+    border-radius: 10px;
+    margin-left: 50px;
 }
 .container3{
     text-align: center;
@@ -134,4 +143,39 @@
 }
 .lead1{
     color:rgba(84, 84, 212, 1) ;
+}
+.container3{
+    margin-top: 300px;
+    margin-left: 600px;
+    margin-right: 800px;
+}
+.container7{
+    margin-top: 150px;
+    margin-left: 600px;
+    margin-right: 800px;
+}
+.container8{
+    margin-top: 100px;
+    margin-left: 650px;
+    margin-right: 800px ;
+}
+.container9{
+    margin-top: 100px;
+}
+.container6{
+    margin-top: 100px;
+}
+.container4{
+    margin-top: 100px;
+    margin-left: 600px;
+    margin-right: 800px;
+}
+.container10{
+    margin-top: 150px;
+    margin-left: 600px;
+    margin-right: 800px;
+    margin-bottom: 50px;
+}
+.nav{
+    margin-top: 50px;
 }
