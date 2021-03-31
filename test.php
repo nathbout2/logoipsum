@@ -130,17 +130,22 @@
 </div>
 <!--finexplication-->
 <!--choixdeux-->
-<div class="col-md-4 col-sm-10 order-md-1 order-sm-2">
-    <h1 class="logoipsum-title">
-    Get the right plan for future product.
-    </h1>
-</div>
-<div class="col-md-4"></div>
-<div class="col-md-4">
+<div class="container mt-4 d-flex justify-content-between align-items-center">
+
+    <div>
+        <h1 class="logoipsum-title">
+        Get the right plan for future product.
+        </h1>
+    </div>
+
+<div>
     <div class="btn-group" role="group" aria-label="Basic example">
-  <button type="button" class="btn btn-primary logoipsum">Yearly</button>
-  <button type="button" class="btn btn-primary logoipsum">Monthly</button>
-   </div>
+            <button type="button" class="btn btn-primary logoipsum p-3" id="btn-yearly">Yearly</button>
+            <button type="button" class="btn btn-outline-primary logoipsum p-3" id="btn-monthly">Monthly</button>
+    </div>
+</div>
+
+
 </div>
 <!--finchoixdeux-->
 <!--choixcards-->

@@ -78,3 +78,19 @@
 .container3{
     text-align: center;
 }
+
+#btn-yearly{
+    background-color: #5454D4;
+    border: 1px solid #F7F7FB;
+    width: 80p;
+}
+
+#btn-monthly{
+    background-color: #F7F7FB;
+    border: 1px solid #F7F7FB;
+    width: 80px;
+}
+
+#btn-monthly:hover{
+    color: #5454D4;
+}
