@@ -31,7 +31,8 @@
     </div>
   </div>
 </nav>
-
+<!--fin nav bar-->
+<!--intro-->
 <div class="row pt-5">
 
 <div class="col-md-5 col-sm-12 order-md-1 order-sm-2">
@@ -49,6 +50,7 @@
 </div>
 
 </div>
+<!--fin intro-->
 <!--logo-->
 <div class="container">
      <div class="row">
@@ -61,9 +63,15 @@
 </div>
 </div>
 <!--fin logo-->
+<!--choix-->
 <div class="row pt-5">
 
-<div class="col-md-5 col-sm-12 order-md-1 order-sm-2">
+<div class="col-md-1 col-sm-0"></div>
+<div class="col-md-6 col-sm-12 order-md-1 order-sm-1">
+    <img src="image/intello-1.png">
+</div>
+
+<div class="col-md-5 col-sm-12 order-md-2 order-sm-2">
     <h1 class="logoipsum-title">
     Subscription index
     </h1>
@@ -73,10 +81,6 @@
     <div class="col-12"><p class="lead1"><b>Learn more</b></p></div>
     
    
-</div>
-<div class="col-md-1 col-sm-0"></div>
-<div class="col-md-6 col-sm-12 order-md-2 order-sm-1">
-    <img src="image/intello-1.png">
 </div>
 
 </div>
@@ -101,28 +105,88 @@
 </div>
 
 </div>
-
 </div>
+<!--finchoix-->
+<!--debutexplication-->
 <div class="container3">
      <div class="row align-items-start">
           <div class="col">
              <img src="image/carte1.png" class="imgcarte" alt="...">
              <p class="h5"><b>Benchmarks</b></p>
-             <p><small></small>See how you stack up against comparable companies in similar stages.</p>
+             <p class="text-black-50 fs-4">See how you stack up against comparable companies in similar stages.</p>
          </div>
           <div class="col">
              <img src="image/calculette1.png" class="imgcalculette" alt="...">
              <p class="h5"><b>Pricing Audit</b></p>
-             <p><small></small>Benchmark the health of your monetization and pricing strategy.</p>
+             <p class="text-black-50 fs-4">Benchmark the health of your monetization and pricing strategy.</p>
          </div>
           <div class="col">
              <img src="image/photo1.png" class="imgphoto" alt="...">
              <p class="h5"><b>Retention Audit</b></p>
-             <p><small></small>Audit where revenue leakage exists and where you can increase retention.</p>
+             <p class="text-black-50 fs-4">Audit where revenue leakage exists and where you can increase retention.</p>
          </div>
       </div>
  </div>
 </div>
+<!--finexplication-->
+<!--choixdeux-->
+<div class="col-md-4 col-sm-10 order-md-1 order-sm-2">
+    <h1 class="logoipsum-title">
+    Get the right plan for future product.
+    </h1>
+</div>
+<div class="col-md-4"></div>
+<div class="col-md-4">
+    <div class="btn-group" role="group" aria-label="Basic example">
+  <button type="button" class="btn btn-primary logoipsum">Yearly</button>
+  <button type="button" class="btn btn-primary logoipsum">Monthly</button>
+   </div>
+</div>
+<!--finchoixdeux-->
+<!--choixcards-->
+<div class="container mt-5">
+
+ <div class="row">
+ <div class="col-md-4 col-sm-12">
+    <div class="card1">
+         <div class="card-body">
+          <h5 class="card-title text-black-50 fs-4">Starter</h5>
+          <h2 class="h2">Free</h2>
+          <p class="card-title text-black-50 fs-4">1 Website</p>
+          <p class="card-title text-black-50 fs-4">5 GB Hosting</p>
+          <p class="text-black-50 fs-4">Limited Support</p>
+          <button type="button" class="btn5 btn-primary border-0 btn-sm"><b>Get Started</b></button>
+         </div>
+     </div>
+ </div>
+ <div class="col-md-4 col-sm-12">
+    <div class="card2">
+         <div class="card-body">
+         <h5 class="card-title text-white fs-4">Premium</h5>
+         <h2 class="h2">$29/month</h2>
+         <p class="card-text text-white fs-4">10 Website</p>
+         <p class="card-text text-white fs-4">15 GB Hosting</p>
+         <p class="card-text text-white fs-4">Premium Support</p>
+         <button type="button" class="btn6 btn-primary border-0 btn-sm"><b>Get Started</b></button>
+         </div>
+     </div>
+ </div>
+ <div class="col-md-4 col-sm-12">
+    <div class="card3">
+         <div class="card-body">
+         <h5 class="card-title1 text-black-50 fs-4">Enterprise</h5>
+         <h2 class="h2">$49/month</h2>
+         <p class="card-text1 text-black-50 fs-4">Unlimited Website</p>
+         <p class="card-text1 text-black-50 fs-4">50 GB Hosting</p>
+         <p class="card-text1 text-black-50 fs-4">Premium Support</p>
+         <button type="button" class="btn7 btn-primary border-0 btn-sm"><b>Get Started</b></button>
+         </div>
+     </div>
+ </div>
+</div>
+</div>
+</div>
+<!--finchoixcards-->
 
 
 </main>
